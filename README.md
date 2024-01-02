@@ -2,4 +2,4 @@
 
 This is my first Git Repository.
 <br>
-Author - Shradha (Apna College)
+Author - Hiren SHarma (Apna College)
